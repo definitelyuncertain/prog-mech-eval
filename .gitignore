@@ -1,0 +1,7 @@
+.idea/
+models/
+*.pyc
+.ipynb_checkpoints
+.vscode
+output
+__pycache__

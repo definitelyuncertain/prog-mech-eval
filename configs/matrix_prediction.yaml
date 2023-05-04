@@ -1,0 +1,11 @@
+experiment_type: matrix
+num_epochs: 80
+prog_config:
+  N: 16 # Size of the game matrices
+  num_programs: 1024000 # Number of programs in the dataset
+  num_statements: 3 # Number of statements in each program
+  stripe_size: 6 # Size of vertical stripes of ones
+training_config:
+  output_dir: models/matrix_prediction
+trainer_args:
+  data_cache_path: "/path/to/data.pt" # Optional path for loading cached dataset
