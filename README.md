@@ -1,10 +1,11 @@
 # Program Embeddings for Rapid Mechanism Evaluation
 
-This repository contains code for an as yet unpublished paper.
+This repository contains code for my workshop [paper](https://drive.google.com/file/d/1WE2x0hS08e7um19bPHsz-ZGY0qIn8moW/view).
 
 ```
 Narayanaswami, S.K, Fridovich-Keil, D., Chaudhuri, S., Stone, P.
 Program Embeddings for Rapid Mechanism Evaluation
+ICRA 2023 Workshop on Multi-Robot Learning
 ```
 
 ## Abstract
